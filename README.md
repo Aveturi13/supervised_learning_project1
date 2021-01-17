@@ -3,7 +3,7 @@
 This project focuses on implementing different regression models on toy datasets. The source code is 
 provided in the two Jupyter Notebooks ``part_1.ipynb`` and `part_2.ipynb`.
 
-`Supervised_learning_report.pdf` provides a detailed explanation of this entire project.
+`Report.pdf` provides a detailed explanation of this entire project.
 
 `results` contains the plots generated for all experiments performed. 
 
